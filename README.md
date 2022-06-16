@@ -162,3 +162,13 @@ commit hashes.
 | golang.org/x/net                                  | v0.0.0-20201207224615-747e23833adb   | v0.0.0-20220615171555-694bf12d69de | true   | true             |
 | google.golang.org/grpc                            | v1.33.2                              | v1.47.0                            | true   | true             |
 +---------------------------------------------------+--------------------------------------+------------------------------------+--------+------------------+
+
+
+|                      MODULE                       |               VERSION                |            NEW VERSION             | DIRECT | VALID TIMESTAMPS |
++---------------------------------------------------+--------------------------------------+------------------------------------+--------+------------------+
+| github.com/cucumber/godog                         | v0.10.0                              | v0.12.5                            | true   | true             |
+| github.com/docker/docker                          | v1.4.2-0.20200207172636-fe49c32737ae | v20.10.17+incompatible             | true   | true             |
+| github.com/google/goexpect                        | v0.0.0-20190228230546-3ee1e840338e   | v0.0.0-20210430020637-ab937bf7fd6f | true   | true             |
+| golang.org/x/crypto                               | v0.0.0-20200622213623-75b288015ac9   | v0.0.0-20220525230936-793ad666bf5e | true   | true             |
+| golang.org/x/net                                  | v0.0.0-20201207224615-747e23833adb   | v0.0.0-20220615171555-694bf12d69de | true   | true             |
+| google.golang.org/grpc                            | v1.33.2                              | v1.47.0                            | true   | true             |
